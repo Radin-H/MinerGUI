@@ -1,0 +1,14 @@
+name: Miner
+main: me.yhl.Miner
+author: yhl
+version: 1.0
+
+commands:
+    Miner:
+        description: Main Command.
+        
+permissions:
+   Miner.miner:
+     description: Main Permission
+   Miner.use:
+     description: Main Permission
